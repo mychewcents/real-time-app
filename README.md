@@ -1,2 +1,2 @@
-# real-time-app
-Uses API Gateway (WebSockets), DynamoDB, and AWS Lambda to demo auto-scaling real-time communication using WebSockets.
+# Real-time communication using API Gateway (WebSockets), DynamoDB, AWS Lambda / NodeJS Backend
+Uses API Gateway (WebSockets), DynamoDB, AWS Lambda / NodeJS Backend to demo real-time communication using WebSockets.
